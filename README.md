@@ -1,10 +1,10 @@
 # Crowdfunding_ETL
 
 
-Project_2 Crowdfunding_ETL
-autors:
-Zalak Gajjar
-Ken Kakhramon Talibdjanov.
+Project_2 Crowdfunding_ETL autors:
+
+* Zalak Gajjar
+* Ken Kakhramon Talibdjanov.
 
 Below files were created by autors where analysis were done and csv files created. 
 
@@ -15,8 +15,8 @@ Below files were created by autors where analysis were done and csv files create
   * subcategory.csv
 
 
-from created csv files our team created 
- 1 crowdfunding_ERD
- 2 crowdfunding_db_schema
+From created csv files our team created 
+ ** crowdfunding_ERD
+ ** crowdfunding_db_schema
  
  All files and schema integration verified and working as expected.
